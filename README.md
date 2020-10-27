@@ -34,9 +34,11 @@ To get this project up and running locally, you must already have ruby and neces
 - E-mail: <a href="mailto:lamiasristy@gmail.com?subject=Hello Lamia!">Email</a>  
 - Twitter: [@LamiaSristy](https://twitter.com/lsristy1)
 
-👤 ** **
-
-
+👤 **NTWALI Heritier**
+- Github: [@NtwaliHeritier](https://github.com/NtwaliHeritier)
+- Linkedin: [@NtwaliHeritier](https://www.linkedin.com/in/ntwaliheritier/)
+- E-mail: <a href="mailto:ntwalihatsor78.nh@gmail.com?subject=Hello Heritier!">Email</a>  
+- Twitter: [@NtwaliHeritier](https://twitter.com/NtwaliHeritier)
 
 
 ## Show your support
