@@ -1,0 +1,19 @@
+<h1>All Possts</h1>
+
+<ul id="posts">
+  <% @posts.each do |post| %>
+    <li>
+      <%= post.title %>
+      <%= post.body %>
+      <% if user_signed_in?  %>    
+         <%= post.user.email %>
+      <%end%>
+    </li>
+  <% end %>
+</ul>
+
+<% if user_signed_in?  %>    
+    <%= link_to "Create a New Post", new_post_path %>
+<%end%>
+
+
