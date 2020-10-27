@@ -10,6 +10,16 @@
   </head>
 
   <body>
+    <p class="navbar-text float-right">
+     <%=check_for_signeduser %>
+    </p>
+
+    <% if notice %>    
+      <p class="alert alert-success"><%= notice %></p>
+    <% end %>
+    <% if alert %>
+      <p class="alert alert-danger"><%= alert %></p>
+    <% end %> 
     <%= yield %>
   </body>
 </html>

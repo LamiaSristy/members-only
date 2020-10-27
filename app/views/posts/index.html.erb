@@ -1,0 +1,15 @@
+<h1>All Possts</h1>
+
+<ul id="posts">
+  <% @posts.each do |post| %>
+    <li>
+      <%= post.title %>
+      <%= post.body %>
+      <%=display_user_email(post)%>
+    </li>
+  <% end %>
+</ul>
+
+<%=check_signed%>
+
+
