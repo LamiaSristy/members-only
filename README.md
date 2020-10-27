@@ -1,5 +1,5 @@
-# Project : 
-
+# Project :  Members Only!
+In this project we practiced the authentication and authorization in rails using "devise" gem. In this project, only signed in users can see the author of each post.
 
 ## Build-With
 
